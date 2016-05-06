@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
-		<p>Push this to AWS</p>
+		<p>Push this to AWS!</p>
             </div>
         </div>
     </body>
